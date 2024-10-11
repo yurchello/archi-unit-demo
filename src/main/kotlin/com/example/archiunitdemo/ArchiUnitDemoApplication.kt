@@ -1,4 +1,4 @@
-package com.example.archi_unit_demo
+package com.example.archiunitdemo
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
